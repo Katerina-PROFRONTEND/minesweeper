@@ -81,13 +81,13 @@ button:hover {
 
 .cell.mine.revealed {
     background-color: white;
-    background-image: url('mine.png');
+    background-image: url('/assets/images/mine.png');
     background-size: 75%;
 }
 
 .cell.flagged {
     background-color: rgba(255, 0, 0, 0.3);
-    background-image: url('flag.png'); /* Добавьте изображение флага */
+    background-image: url('/assets/images/flag.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
